@@ -7,7 +7,7 @@ sections:
 - type: document
   path: entradas
   label: prueba de concepto
-  match: "**/*"
+  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
